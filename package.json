@@ -1,0 +1,22 @@
+{
+  "name": "nagarro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.4.1",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.11",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8",
+    "path": "^0.12.7"
+  }
+}
